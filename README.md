@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Law Marshal](https://www.lawmarshal.in/)
 
-- 🌱 I’m currently learning **Next.js, TailwindCSS, Frameworks of JavaScript**
+- 🌱 I’m currently learning **Next.js, TypesScript and JS Frameworks, AWS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-five-virid-61.vercel.app/](https://portfolio-five-virid-61.vercel.app/)
 
-- 💬 Ask me about **React, TypeScript, Web Development, C++**
+- 💬 Ask me about **React, JavaScript, C++**
 
 - 📫 How to reach me **kavitdesai212002@gmail.com**
 
