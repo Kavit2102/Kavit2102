@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavit Desai</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working as *Assistant System Engineer* at <h6>**Tata Consultancy Services**</h6>
+- 🔭 I’m currently working as *Assistant System Engineer* at **Tata Consultancy Services**
 
 - 🌱 I’m currently woring on **React, Typescript, Azure Cosmos DB, MCP (Model Context Protocol)** and tools like **Refine**
 
