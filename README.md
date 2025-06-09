@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kavit Desai</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Law Marshal](https://www.lawmarshal.in/)
+- 🔭 I’m currently working as *Assistant System Engineer* at <h6>**Tata Consultancy Services**</h6>
 
-- 🌱 I’m currently learning **Next.js, TypesScript and JS Frameworks, AWS**
+- 🌱 I’m currently woring on **React, Typescript, Azure Cosmos DB, MCP (Model Context Protocol)** and tools like **Refine**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-five-virid-61.vercel.app/](https://portfolio-five-virid-61.vercel.app/)
 
-- 💬 Ask me about **React, JavaScript, C++**
+- 💬 Ask me about **React, JavaScript and Next.js**
 
-- 📫 How to reach me **kavitdesai212002@gmail.com**
+- 📫 How to reach me **kavitdesai212002@gmail.com** or **kavit9433@gmail.com** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HA_WioZO5WP4BoV6SxWLUGdZOtoZPINB/view?usp=sharing](https://drive.google.com/file/d/1HA_WioZO5WP4BoV6SxWLUGdZOtoZPINB/view?usp=sharing)
 
