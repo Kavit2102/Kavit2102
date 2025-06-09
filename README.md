@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Kavit2102)
+
 <h1 align="center">Hi 👋, I'm Kavit Desai</h1>
 <h3 align="center">Full Stack Developer</h3>
 
