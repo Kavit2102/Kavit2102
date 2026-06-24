@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kavitdesai212002@gmail.com** or **kavit9433@gmail.com** 
 
-- 📄 Know about my experiences [Google Drive](https://drive.google.com/file/d/1HA_WioZO5WP4BoV6SxWLUGdZOtoZPINB/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IVOdw_dEfkYLhj07xG6vYLRdHElOIyVR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
