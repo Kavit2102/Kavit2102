@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently woring on **React, Typescript, Azure Cosmos DB, MCP (Model Context Protocol)** and tools like **Refine**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-five-virid-61.vercel.app/](https://portfolio-five-virid-61.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kavit-desai.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript and Next.js**
 
